@@ -1,4 +1,4 @@
-# <img src="../images/logo-sis.png" alt="segitigaindosakti" width="48" /> SEGITIGA INDO SAKTI
+# <img src="./images/logo-sis.png" alt="segitigaindosakti" width="48" /> SEGITIGA INDO SAKTI
 
 ## About Us
 
